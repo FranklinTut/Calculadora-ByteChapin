@@ -1,0 +1,15 @@
+C:\Users\frank\OneDrive\Música\Documentos\Proyectos\Calculadora-Grupal\Calculadora-ByteChapin\bin\Debug\net9.0\lab001.exe
+C:\Users\frank\OneDrive\Música\Documentos\Proyectos\Calculadora-Grupal\Calculadora-ByteChapin\bin\Debug\net9.0\lab001.deps.json
+C:\Users\frank\OneDrive\Música\Documentos\Proyectos\Calculadora-Grupal\Calculadora-ByteChapin\bin\Debug\net9.0\lab001.runtimeconfig.json
+C:\Users\frank\OneDrive\Música\Documentos\Proyectos\Calculadora-Grupal\Calculadora-ByteChapin\bin\Debug\net9.0\lab001.dll
+C:\Users\frank\OneDrive\Música\Documentos\Proyectos\Calculadora-Grupal\Calculadora-ByteChapin\bin\Debug\net9.0\lab001.pdb
+C:\Users\frank\OneDrive\Música\Documentos\Proyectos\Calculadora-Grupal\Calculadora-ByteChapin\obj\Debug\net9.0\lab001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frank\OneDrive\Música\Documentos\Proyectos\Calculadora-Grupal\Calculadora-ByteChapin\obj\Debug\net9.0\lab001.AssemblyInfoInputs.cache
+C:\Users\frank\OneDrive\Música\Documentos\Proyectos\Calculadora-Grupal\Calculadora-ByteChapin\obj\Debug\net9.0\lab001.AssemblyInfo.cs
+C:\Users\frank\OneDrive\Música\Documentos\Proyectos\Calculadora-Grupal\Calculadora-ByteChapin\obj\Debug\net9.0\lab001.csproj.CoreCompileInputs.cache
+C:\Users\frank\OneDrive\Música\Documentos\Proyectos\Calculadora-Grupal\Calculadora-ByteChapin\obj\Debug\net9.0\lab001.sourcelink.json
+C:\Users\frank\OneDrive\Música\Documentos\Proyectos\Calculadora-Grupal\Calculadora-ByteChapin\obj\Debug\net9.0\lab001.dll
+C:\Users\frank\OneDrive\Música\Documentos\Proyectos\Calculadora-Grupal\Calculadora-ByteChapin\obj\Debug\net9.0\refint\lab001.dll
+C:\Users\frank\OneDrive\Música\Documentos\Proyectos\Calculadora-Grupal\Calculadora-ByteChapin\obj\Debug\net9.0\lab001.pdb
+C:\Users\frank\OneDrive\Música\Documentos\Proyectos\Calculadora-Grupal\Calculadora-ByteChapin\obj\Debug\net9.0\lab001.genruntimeconfig.cache
+C:\Users\frank\OneDrive\Música\Documentos\Proyectos\Calculadora-Grupal\Calculadora-ByteChapin\obj\Debug\net9.0\ref\lab001.dll
